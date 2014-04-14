@@ -1,0 +1,6 @@
+<findBorderConfig>
+	<logFilePath>/home/loki/Projects/MachineLearningFinal/log/Output.txt</logFilePath>
+	<databasePath>/home/loki/Projects/MachineLearningFinal/input/input.txt</databasePath>
+	<objectIndexList>1, 3, 5, 7</objectIndexList>
+	<attributeIndexList>1, 2, 3</attributeIndexList>
+</findBorderConfig>
